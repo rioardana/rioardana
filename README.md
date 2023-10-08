@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Rio 👋
+
+- 🌱 I'm currently learning about front-end
+- 📫 How to reach me: linkedin.com/in/rioardana/
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rioardana&show_icons=true&theme=light)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioardana&layout=compact)
 
 <!--
 **rioardana/rioardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
