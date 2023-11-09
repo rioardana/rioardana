@@ -1,6 +1,5 @@
 ## Hi, I'm Rio 👋
 
-- 🌱 I'm currently learning about front-end
 - 📫 How to reach me: linkedin.com/in/rioardana/
 <br>
 
